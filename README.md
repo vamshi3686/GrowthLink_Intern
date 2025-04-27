@@ -2,23 +2,48 @@
 
 
 
-ris flower classification is a machine learning problem where we predict the species (type) of an iris flower based on four features:
+Iris Flower Classification
 
-Sepal length (in cm)
+About this Project
 
-Sepal width (in cm)
+This project is about classifying Iris flowers into three species — Setosa, Versicolor, and Virginica — based on their sepal and petal measurements.
+It uses Machine Learning algorithms to learn from the famous Iris dataset and predict the species of a flower given its measurements.
 
-Petal length (in cm)
+I trained and tested the model using the four key features:
 
-Petal width (in cm)
+Sepal Length
 
+Sepal Width
 
-The 3 species (types) are:
+Petal Length
 
-1. Iris Setosa
-
-
-2. Iris Versicolor
+Petal Width
 
 
-3. Iris Virginica
+The main goal of this project was to build a simple classification model, visualize the dataset, and understand how different features affect prediction.
+
+
+---
+
+What this Project Includes:
+
+Data cleaning and exploration
+
+Data visualization using graphs
+
+Model training (e.g., Decision Tree, SVM, KNN, etc.)
+
+Model evaluation and testing
+
+Prediction on new data
+
+GitHub repository with the dataset and code
+
+
+
+---
+
+Dataset
+
+The dataset used is the classic Iris dataset, which is publicly available and often used for beginners in machine learning.
+
