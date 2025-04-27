@@ -23,7 +23,6 @@ Petal Width
 The main goal of this project was to build a simple classification model, visualize the dataset, and understand how different features affect prediction.
 
 
----
 
 What this Project Includes:
 
@@ -31,19 +30,14 @@ Data cleaning and exploration
 
 Data visualization using graphs
 
-Model training (e.g., Decision Tree, SVM, KNN, etc.)
+Model training
 
 Model evaluation and testing
 
 Prediction on new data
 
-GitHub repository with the dataset and code
 
-
-
----
 
 Dataset
 
-The dataset used is the classic Iris dataset, which is publicly available and often used for beginners in machine learning.
-
+The dataset used is the classic Iris dataset.
